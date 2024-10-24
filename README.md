@@ -1,9 +1,7 @@
 # Language Detector
 
-### Link for dataset : https://www.kaggle.com/datasets/basilb2s/language-detection
-
-### This is a language detector model which can predict 17 different languages.
-
+### https://www.kaggle.com/datasets/basilb2s/language-detection
+### Languages can be -->
 ### 1) English
 ### 2) Malayalam
 ### 3) Hindi
